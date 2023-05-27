@@ -1,7 +1,5 @@
 # THE PERMISSIVE MODIFICATION LIMITED DISTRIBUTION LICENSE
-
-The Permissive Modification Limited Distribution License ("License") is entered into, by, and between Stygigoth ("Licensor") and the individual or entity downloading or using the software ("Licensee").
-
+The Permissive Modification Limited Distribution License ("License") is entered into by and between Stygigoth ("Licensor") and the individual or entity downloading or using the software ("Licensee").
 ## Grant of License
 Licensor hereby grants Licensee a non-exclusive, non-transferable license to redistribute and use the software ("Software") subject to the terms and conditions set forth in this License. Licensee acknowledges that the Software is protected by intellectual property rights and agrees to comply with all applicable laws and regulations.
 ## Redistribution Restrictions
