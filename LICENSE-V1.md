@@ -7,7 +7,7 @@ Licensee may only redistribute the Software under the following conditions:
 - a. Redistribution of the Software is permitted exclusively through the following websites: modrinth.com, github.com/stygigoth. Any other distribution method requires the express permission of the Licensor.
 ## Modification Restrictions
 Licensee may modify the Software under the following conditions:
-- a. Modifications to the Software are only permitted in a fork from the main repository or in the main repository itself.
+- a. Modifications to the Software are only permitted to be hosted in a fork from the main repository or in the main repository itself, notwithstanding the express permission of the Licensor.
 - b. Licensee shall ensure that any modifications made to the Software comply with the terms and conditions of this License.
 ## Commercial Usage Restrictions
 Licensee agrees to the following restrictions on commercial usage:
