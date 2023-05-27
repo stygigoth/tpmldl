@@ -8,8 +8,8 @@ Licensee may only redistribute the Software under the following conditions:
 ## Modification Restrictions
 Licensee may modify the Software under the following conditions:
 - a. Modifications to the Software are only permitted to be hosted in a fork from the main repository or in the main repository itself, unless the express permission of the Licensor is granted.
-- b. Licensee shall ensure that any modifications made to the Software comply with the terms and conditions of this License.
-- c. All modifications to the Software must be licensed under this License and no others.
+- b. All modifications to the Software must be licensed under this License and no others.
+- c. Licensee shall ensure that any modifications made to the Software comply with the terms and conditions of this License.
 ## Commercial Usage Restrictions
 Licensee agrees to the following restrictions on commercial usage:
 - a. Licensee shall not make any monetary profit from the sale or distribution of the Software.
