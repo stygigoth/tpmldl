@@ -15,7 +15,7 @@ Licensee agrees to the following restrictions on commercial usage:
   - a1. Licensee shall be permitted to make monetary profit from advertisements on the website of distribution, assuming provisions in Section 2 (Redistribution Restrictions) are followed.
 - b. Licensee shall not engage in any activity that impersonates the Software or misleads others into believing they are associated with or endorsed by the Licensor.
 ## Intellectual Property Rights
-Licensee acknowledges that all intellectual property rights, including but not limited to copyrights and trademarks, in and to the Software shall remain the exclusive property of Stygigoth. This License does not grant Licensee any ownership rights or interests in the Software.
+Licensee acknowledges that all intellectual property rights, including but not limited to copyrights and trademarks, in and to the Software shall remain the exclusive property of the Licensor. This License does not grant Licensee any ownership rights or interests in the Software.
 ## Termination
 Licensor reserves the right to terminate this License immediately if Licensee fails to comply with any of the terms and conditions stated herein. Upon termination, Licensee shall cease all use and distribution of the Software and destroy any copies in their possession.
 ## Governing Law and Jurisdiction
