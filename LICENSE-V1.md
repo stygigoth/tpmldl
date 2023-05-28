@@ -19,6 +19,12 @@ Licensee agrees to the following restrictions on commercial usage:
 Licensee acknowledges that all intellectual property rights, including but not limited to copyrights and trademarks, in and to the Software shall remain the exclusive property of the Licensor. This License does not grant Licensee any ownership rights or interests in the Software.
 ## Termination
 Licensor reserves the right to terminate this License immediately if Licensee fails to comply with any of the terms and conditions stated herein. Upon termination, Licensee shall cease all use and distribution of the Software and destroy any copies in their possession.
+## Severability
+Should any provision of this License be found invalid or unenforceable, the remaining provisions shall remain intact.
+## Idemnification
+The Licensee shall indemnify and hold the Licensor harmless from any claims, damages, or liabilities arising out of the Licensee's use, modification, or distribution of the Software.
+## Disclaimer of Warranty
+The Licensor provides the Software "as is," as such, the Licensee assumes any risks associated with its use.
 ## Governing Law and Jurisdiction
 This License shall be governed by and construed in accordance with the laws of the United States of America. Any disputes arising under or in connection with this License shall be subject to the exclusive jurisdiction of the federal and state courts located within the United States of America.
 ## Entire Agreement
