@@ -21,7 +21,7 @@ Licensee acknowledges that all intellectual property rights, including but not l
 Licensor reserves the right to terminate this License immediately if Licensee fails to comply with any of the terms and conditions stated herein. Upon termination, Licensee shall cease all use and distribution of the Software and destroy any copies in their possession.
 ## Severability
 Should any provision of this License be found invalid or unenforceable, the remaining provisions shall remain intact.
-## Idemnification
+## Indemnification
 The Licensee shall indemnify and hold the Licensor harmless from any claims, damages, or liabilities arising out of the Licensee's use, modification, or distribution of the Software.
 ## Disclaimer of Warranty
 The Licensor provides the Software "as is," as such, the Licensee assumes any risks associated with its use.
