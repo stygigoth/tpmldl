@@ -15,6 +15,8 @@ Licensee agrees to the following restrictions on commercial usage:
 - a. Licensee shall not make any monetary profit from the sale or distribution of the Software.
   - a1. Licensee shall be permitted to make monetary profit from advertisements on the website of distribution, assuming provisions in Section 2 (Redistribution Restrictions) are followed.
 - b. Licensee shall not engage in any activity that impersonates the Software or misleads others into believing they are associated with or endorsed by the Licensor.
+## Relicensing Restrictions
+Licensor holds the sole right to make the decision to update the license of the Software to a new license, or a later version of this License.
 ## Intellectual Property Rights
 Licensee acknowledges that all intellectual property rights, including but not limited to copyrights and trademarks, in and to the Software shall remain the exclusive property of the Licensor. This License does not grant Licensee any ownership rights or interests in the Software.
 ## Termination
