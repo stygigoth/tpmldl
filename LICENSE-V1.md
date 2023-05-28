@@ -10,7 +10,8 @@ Licensee may modify the Software under the following conditions:
 - a. Modifications to the Software are only permitted to be hosted in a fork of the main repository or in the main repository itself, unless prior written consent from the Licensor is obtained.
 - b. All modifications to the Software must be licensed under this License and no others.
 - c. All modifications to the software must follow any applicable laws, and not infringe on any intellectual property rights.
-- d. Licensee shall ensure that any modifications made to the Software comply with the terms and conditions of this License.
+- d. Licensee shall refrain from engaging in any activity that impersonates the Software or misleads others into believing that they are associated with or endorsed by the Licensor.
+- e. Licensee shall ensure that any modifications made to the Software comply with the terms and conditions of this License.
 ## Commercial Usage Restrictions
 Licensee agrees to the following restrictions on commercial usage:
 - a. Licensee shall not derive any financial gain from the sale or distribution of the Software.
