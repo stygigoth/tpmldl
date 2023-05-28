@@ -14,7 +14,7 @@ Licensee may modify the Software under the following conditions:
 ## Commercial Usage Restrictions
 Licensee agrees to the following restrictions on commercial usage:
 - a. Licensee shall not derive any financial gain from the sale or distribution of the Software.
-  - a1. Licensee shall be permitted to make derive financial gain from advertisements on the website of distribution, assuming provisions in Section 2 (Redistribution Restrictions) are followed.
+  - a1. Licensee shall be permitted to derive financial gain from advertisements on the website of distribution, assuming provisions in Section 2 (Redistribution Restrictions) are followed.
 - b. Licensee shall refrain from engaging in any activity that impersonates the Software or misleads others into believing that they are associated with or endorsed by the Licensor.
 ## Relicensing Restrictions
 Licensor holds the sole right to make the decision to update the license of the Software to a new license, or a later version of this License.
